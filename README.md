@@ -1,13 +1,17 @@
-# AzureEnterpriseAnalyticsKnowledge
+# Azure Enterprise Analytics Knowledge
+
 Knowledge Store for Azure data services technical content: repo or repos
 
 
 
-folder 1
+# Useful Blogs
 
 
 
+# Labs and Code
 
-folder 2
+[Useful Labs](./labs_code/readme.md)
+
+
 
 
