@@ -24,6 +24,7 @@ Understanding of table geometry, statistics etc in a hand PBI report, underlying
 
 [Azure Synapse Toolbox](https://github.com/microsoft/Azure_Synapse_Toolbox), includes analyser for dedicated pools, Log Analytics queries for various Synapse engines, distribution advisor
 
-[Azure Synapse Analytics: Dedicated Pool - Optimisation with PowerBI report](
+[Azure Synapse Analytics: Dedicated Pool - Optimisation with Log Analytics](https://github.com/bricrsa/SynapseMonitor)
+Some more detailed Synapse Log Analytics queries, including cost estimation/attribution per query
 
 
