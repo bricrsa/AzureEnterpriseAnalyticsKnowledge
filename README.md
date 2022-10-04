@@ -1,12 +1,13 @@
 # Azure Enterprise Analytics Knowledge
 
-Knowledge Store for Azure data services technical content: repo or repos
+Knowledge Store for Azure data services technical content: repo of repos
 
 
 
 # Useful Blogs
 
-
+# Useful Videos
+[Videos](./videos/videos.md)
 
 # Labs and Code
 
