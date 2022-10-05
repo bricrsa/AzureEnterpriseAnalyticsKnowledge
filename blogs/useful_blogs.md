@@ -21,6 +21,11 @@ Techniques for using tags to understand ADB costs: more detailed tags can give y
 
 [Azure Databricks: Using Log Analytics for general analysis and cost management](https://github.com/bricrsa/azuredatabricks_loganalytics)
 
+[Alerting on ADLS activity from Databricks using Databricks audit logs, Log Analytics and Azure Monitor](https://medium.com/@rebremer/how-to-prevent-data-exfiltration-from-azure-databricks-c1c55df5c9f2)
+
+[Azure Databricks Best Practices (Old)](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
+PG and community best practices for ADB deployments
+
 [Azure Synapse Analytics: Dedicated Pool - Optimisation with PowerBI report](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analyzer-report-to-monitor-and-improve-azure/ba-p/3276960)
 Understanding of table geometry, statistics etc in a hand PBI report, underlying code part of Synapse Toolbox [here](https://github.com/microsoft/Azure_Synapse_Toolbox/tree/master/Synapse_Analyzer/Synapse_BPA_Report).
 
