@@ -11,6 +11,8 @@ Interesting thoughts on Synapse and Delta
 [ADLS - Hitchhikers guide to the Data Lake](https://github.com/rukmani-msft/adlsguidancedoc/blob/master/Hitchhikers_Guide_to_the_Datalake.md)
 Slightly dated (written in 2020), but still has loads of useful info
 
+[Azure Databricks - ADLS Access Patterns](https://github.com/hurtn/datalake-ADLS-access-patterns-with-Databricks)
+Broad discussion of various patterns centred around ADLS, using pass through, service principals, secrets scopes. Includes recommendations. Does not yet included Unity implications.
 
 # Monitoring & Optimisation
 
