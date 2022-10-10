@@ -53,7 +53,7 @@ Some more detailed Synapse Log Analytics queries, including cost estimation/attr
 
 
 
-# [Labs and Code]
+# Labs and Code
 
 ## Broad range of Labs, including data
 
