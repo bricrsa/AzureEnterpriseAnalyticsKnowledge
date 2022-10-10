@@ -1,6 +1,6 @@
 # Azure Enterprise Analytics Knowledge
 
-*Knowledge Store for Azure data services technical content: repo of repos
+*Knowledge Store for Azure data services technical content: repo of repos*
 
 Contents
 
